@@ -1,6 +1,12 @@
 body {
-    background-color: #E0E0E2;
+    background-color: black;
 }
+
+table,tr,td{
+    color: greenyellow;
+}
+
+
 
 ul {
     list-style-type: none;
