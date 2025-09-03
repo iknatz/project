@@ -1,0 +1,14 @@
+CREATE TABLE twelveWY (
+    date DATE,
+    ListMorning datatype,
+    Listevening datatype,
+);
+
+INSERT INTO twelveWY
+VALUES (20250903, 4, 99, ...);
+
+CREATE TABLE BucketList (
+    id Numeric,
+    Descritpion String,
+    complete Boolean,
+);
