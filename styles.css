@@ -4,6 +4,14 @@ body {
 
 table,tr,td{
     color: greenyellow;
+    border: red 2px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin-right: auto;
+    font-size: 1.25em;
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
 
