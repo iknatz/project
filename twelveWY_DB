@@ -5,10 +5,14 @@ CREATE TABLE twelveWY (
 );
 
 INSERT INTO twelveWY
-VALUES (20250903, 4, 99, ...);
+VALUES (20250903, 4, 99);
 
 CREATE TABLE BucketList (
     id Numeric,
     Descritpion String,
     complete Boolean,
 );
+
+INSERT INTO BucketList
+VALUES (1, "Eine Balder V02 Miniatur machen.", 0)
+VALUES (2, "Eine Online-DB für alles mögliche Anlegen", 0);;
