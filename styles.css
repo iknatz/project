@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: grey;
 }
 
 table,tr,td{
@@ -26,7 +26,13 @@ li {
     display: inline;
 }
 
-main {
+main { 
+
+    grid-area: main; 
+
+    background-color: lightyellow; 
+
+ 
     text-align: center;
 }
 
@@ -71,3 +77,22 @@ input:focus:invalid {
     color: red;
     border: red 3px solid;
 }
+
+
+body { 
+
+    display: grid; 
+
+    height: 200px; 
+
+    grid-template-areas: "head head" 
+
+                         "nav  main" 
+
+                         "footer  footer"; 
+
+    grid-template-rows: 30px 1fr 30px; 
+
+    grid-template-columns: 150px 1fr; 
+
+  } 

@@ -6,8 +6,7 @@ Is the correct company logo at the top of the page?
 
 Is there a horizontal navigation menu with four links below the logo?
 
-Does one of the links in t
-he navigation menu link to the home page itself?
+Does one of the links in the navigation menu link to the home page itself?
 
 Does the main content contain a large promotional banner at the top and three columns below it, each containing an image and some text?
 
