@@ -16,3 +16,16 @@ CREATE TABLE BucketList (
 INSERT INTO BucketList
 VALUES (1, "Eine Balder V02 Miniatur machen.", 0)
 VALUES (2, "Eine Online-DB für alles mögliche Anlegen", 0);;
+VALUES (	3	, "	Die 1288-App zum Laufen Bringen	", 0);
+VALUES (	4	, "	PAs Aufwandschätzung	", 0);
+VALUES (	5	, "	Cha-Chas Wochenplanung	", 0);
+VALUES (	6	, "	BigQuerry lernen	", 0);
+VALUES (	7	, "	Artikel ADHS-EV	", 0);
+VALUES (	8	, "	Sanctifier Kill Team	", 0);
+VALUES (	9	, "	Battle Clade Kill Team	", 0);
+VALUES (	10	, "	KT-Manager	", 0);
+VALUES (	11	, "	Hydration	", 0);
+VALUES (	12	, "	Dentalhygiene	", 0);
+VALUES (	13	, "	Familienzusammenkunft	", 0);
+VALUES (	14	, "	90d-Challenge	", 0);
+VALUES (	15	, "	Coursera: HTML	", 0);
