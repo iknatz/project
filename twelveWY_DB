@@ -29,12 +29,8 @@ VALUES (	12	, "	Dentalhygiene	", 0);
 VALUES (	13	, "	Familienzusammenkunft	", 0);
 VALUES (	14	, "	90d-Challenge	", 0);
 VALUES (	15	, "	Coursera: HTML	", 0);
-<<<<<<< HEAD
 VALUES (	16	, "	Konrads Sporttasche	", 0);
 VALUES (	17	, "	Rasieren/Gesichtspflege	", 0);
-=======
-VALUES (	15	, "	Konrads Sporttasche	", 0);
-VALUES (	15	, "	Rasieren/Gesichtspflege	", 0);
 Gwinnspielteilnahme popp
 duschen
 Gitarre Spielen
@@ -43,4 +39,3 @@ Buch: Squat Bible
 Cardio
 Resistance
 MixtapeZeichenbuch
->>>>>>> 354b51d074fd84029b312b31d1091030bd23e1d1
