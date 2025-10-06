@@ -2,3 +2,21 @@ body{
     background-color: yellow;
     color: black
 }
+
+header{
+  background-color: salmon;
+}
+
+nav{
+  background-color: aqua;
+}
+
+.flex-container{
+    display: flex;
+    border-style: solid;
+        border-width: 2px; 
+    border-color: aliceblue;
+    justify-content: space-around;
+    align-items:stretch;
+
+}
