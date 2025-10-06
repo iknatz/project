@@ -1,4 +1,4 @@
-
-.flex-container{
-    display: flex;
+body{
+    background-color: yellow;
+    color: black
 }
